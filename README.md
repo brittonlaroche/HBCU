@@ -2,7 +2,9 @@
 
 
 ## Part 1 Set up a MongoDB Atlas Cluster
-
+The first lab walks through the setup of an Atlas cluster, and connecting to the cluster through Compass.  Click the link below to get started.   
+   
+https://github.com/brittonlaroche/HBCU/blob/main/2020-10-06-AA-HBCU-Hackathon-Lab.pdf
 
 ## Part 2 Create a Machine learning application.
 
